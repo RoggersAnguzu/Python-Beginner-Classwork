@@ -1,0 +1,5 @@
+Apples 30 5
+Milk 50 4
+Bread 50 2
+Bananas 10 10
+Eggs 12 12

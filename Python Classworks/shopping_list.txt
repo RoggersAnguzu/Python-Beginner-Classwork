@@ -1,0 +1,6 @@
+Item			Quantity
+Apples			5
+Milk			2
+Mangoes			7
+Juice			1
+Sugar			1
